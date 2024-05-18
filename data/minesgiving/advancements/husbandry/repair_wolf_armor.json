@@ -44,5 +44,8 @@
       "repair_wolf_armor"
     ]
   ],
+  "rewards": {
+    "function": "scoreboard:gain_points1"    
+  },  
   "sends_telemetry_event": true
 }

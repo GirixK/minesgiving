@@ -38,5 +38,8 @@
       "ride_a_boat_with_a_goat"
     ]
   ],
+  "rewards": {
+    "function": "scoreboard:gain_points1"    
+  },  
   "sends_telemetry_event": true
 }

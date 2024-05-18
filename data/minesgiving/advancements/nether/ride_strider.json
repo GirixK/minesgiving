@@ -38,5 +38,8 @@
       "used_warped_fungus_on_a_stick"
     ]
   ],
+  "rewards": {
+    "function": "scoreboard:gain_points1"    
+  },    
   "sends_telemetry_event": true
 }

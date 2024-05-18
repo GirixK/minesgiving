@@ -176,5 +176,8 @@
       "distract_piglin_directly"
     ]
   ],
+  "rewards": {
+    "function": "scoreboard:gain_points1"    
+  },  
   "sends_telemetry_event": true
 }

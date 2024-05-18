@@ -39,5 +39,8 @@
       "trade_at_world_height"
     ]
   ],
+  "rewards": {
+    "function": "scoreboard:gain_points1"    
+  },  
   "sends_telemetry_event": true
 }

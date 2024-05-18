@@ -46,7 +46,8 @@
     ]
   ],
   "rewards": {
-    "experience": 50
+    "experience": 50,
+    "function": "scoreboard:gain_points1"         
   },
   "sends_telemetry_event": true
 }
