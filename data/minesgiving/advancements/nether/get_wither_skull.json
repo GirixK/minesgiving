@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/find_fortress",
+  "parent": "minesgiving:nether/find_fortress",
   "criteria": {
     "wither_skull": {
       "conditions": {
@@ -20,9 +20,7 @@
       "count": 1,
       "id": "minecraft:wither_skeleton_skull"
     },
-    "title": {
-      "translate": "advancements.nether.get_wither_skull.title"
-    }
+    "title": "Spooky Scary Skeleton [3 Points]"
   },
   "requirements": [
     [
@@ -30,7 +28,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points1"    
+    "function": "scoreboard:gain_points3"    
   },    
   "sends_telemetry_event": true
 }

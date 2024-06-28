@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:story/follow_ender_eye",
+  "parent": "minesgiving:story/follow_ender_eye",
   "criteria": {
     "entered_end": {
       "conditions": {
@@ -16,9 +16,7 @@
       "count": 1,
       "id": "minecraft:end_stone"
     },
-    "title": {
-      "translate": "advancements.story.enter_the_end.title"
-    }
+    "title": "The End? [1 Point]"
   },
   "requirements": [
     [

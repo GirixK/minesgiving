@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:story/smelt_iron",
+  "parent": "minesgiving:story/smelt_iron",
   "criteria": {
     "iron_boots": {
       "conditions": {
@@ -50,9 +50,7 @@
       "count": 1,
       "id": "minecraft:iron_chestplate"
     },
-    "title": {
-      "translate": "advancements.story.obtain_armor.title"
-    }
+    "title": "Suit Up [1 Point]"
   },
   "requirements": [
     [

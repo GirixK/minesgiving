@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:story/root",
+  "parent": "minesgiving:story/root",
   "criteria": {
     "get_stone": {
       "conditions": {
@@ -20,9 +20,7 @@
       "count": 1,
       "id": "minecraft:wooden_pickaxe"
     },
-    "title": {
-      "translate": "advancements.story.mine_stone.title"
-    }
+    "title": "Stone Age [1 Point]"
   },
   "requirements": [
     [

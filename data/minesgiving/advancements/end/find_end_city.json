@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:end/enter_end_gateway",
+  "parent": "minesgiving:end/enter_end_gateway",
   "criteria": {
     "in_city": {
       "conditions": {
@@ -26,9 +26,7 @@
       "count": 1,
       "id": "minecraft:purpur_block"
     },
-    "title": {
-      "translate": "advancements.end.find_end_city.title"
-    }
+    "title": "The City at the End of the Game [3 Points]"
   },
   "requirements": [
     [
@@ -36,7 +34,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points1"    
+    "function": "scoreboard:gain_points3"    
   },  
   "sends_telemetry_event": true
 }

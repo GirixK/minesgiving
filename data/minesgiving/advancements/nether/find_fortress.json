@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/root",
+  "parent": "minesgiving:nether/root",
   "criteria": {
     "fortress": {
       "conditions": {
@@ -26,9 +26,7 @@
       "count": 1,
       "id": "minecraft:nether_bricks"
     },
-    "title": {
-      "translate": "advancements.nether.find_fortress.title"
-    }
+    "title": "A Terrible Fortress [1 Point]"
   },
   "requirements": [
     [

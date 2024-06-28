@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/brew_potion",
+  "parent": "minesgiving:nether/brew_potion",
   "criteria": {
     "all_effects": {
       "conditions": {
@@ -31,9 +31,7 @@
       "count": 1,
       "id": "minecraft:milk_bucket"
     },
-    "title": {
-      "translate": "advancements.nether.all_potions.title"
-    }
+    "title": "A Furious Cocktail [15 Points]"
   },
   "requirements": [
     [
@@ -42,7 +40,7 @@
   ],
   "rewards": {
     "experience": 100,
-    "function": "scoreboard:gain_points1"       
+    "function": "scoreboard:gain_points15"       
   },
   "sends_telemetry_event": true
 }

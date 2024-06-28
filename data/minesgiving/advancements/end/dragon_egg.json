@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:end/kill_dragon",
+  "parent": "minesgiving:end/kill_dragon",
   "criteria": {
     "dragon_egg": {
       "conditions": {
@@ -21,9 +21,7 @@
       "count": 1,
       "id": "minecraft:dragon_egg"
     },
-    "title": {
-      "translate": "advancements.end.dragon_egg.title"
-    }
+    "title": "The Next Generation [1 Point]"
   },
   "requirements": [
     [

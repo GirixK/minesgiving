@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/obtain_blaze_rod",
+  "parent": "minesgiving:nether/obtain_blaze_rod",
   "criteria": {
     "potion": {
       "trigger": "minecraft:brewed_potion"
@@ -13,9 +13,7 @@
       "count": 1,
       "id": "minecraft:potion"
     },
-    "title": {
-      "translate": "advancements.nether.brew_potion.title"
-    }
+    "title": "Local Brewery [1 Point]"
   },
   "requirements": [
     [

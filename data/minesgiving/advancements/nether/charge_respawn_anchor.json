@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/obtain_crying_obsidian",
+  "parent": "minesgiving:nether/obtain_crying_obsidian",
   "criteria": {
     "charge_respawn_anchor": {
       "conditions": {
@@ -34,9 +34,7 @@
       "count": 1,
       "id": "minecraft:respawn_anchor"
     },
-    "title": {
-      "translate": "advancements.nether.charge_respawn_anchor.title"
-    }
+    "title": "Not Quite \"Nine\" Lives [6 Points]"
   },
   "requirements": [
     [
@@ -44,7 +42,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points1"    
+    "function": "scoreboard:gain_points6"    
   },  
   "sends_telemetry_event": true
 }

@@ -22,9 +22,7 @@
       "id": "minecraft:grass_block"
     },
     "show_toast": false,
-    "title": {
-      "translate": "advancements.story.root.title"
-    }
+    "title": "Minecraft [1 Point]"
   },
   "requirements": [
     [

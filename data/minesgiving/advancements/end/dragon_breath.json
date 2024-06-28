@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:end/kill_dragon",
+  "parent": "minesgiving:end/kill_dragon",
   "criteria": {
     "dragon_breath": {
       "conditions": {
@@ -21,9 +21,7 @@
       "count": 1,
       "id": "minecraft:dragon_breath"
     },
-    "title": {
-      "translate": "advancements.end.dragon_breath.title"
-    }
+    "title": "You Need a Mint [2 Points]"
   },
   "requirements": [
     [
@@ -31,7 +29,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points1"    
+    "function": "scoreboard:gain_points2"    
   },  
   "sends_telemetry_event": true
 }
