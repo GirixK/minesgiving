@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/root",
+  "parent": "minesgiving:nether/root",
   "criteria": {
     "travelled": {
       "conditions": {
@@ -21,9 +21,7 @@
       "count": 1,
       "id": "minecraft:map"
     },
-    "title": {
-      "translate": "advancements.nether.fast_travel.title"
-    }
+    "title": "Subspace Bubble [4 Points]"
   },
   "requirements": [
     [
@@ -32,7 +30,7 @@
   ],
   "rewards": {
     "experience": 100,
-    "function": "scoreboard:gain_points1"     
+    "function": "scoreboard:gain_points4"     
   },
   "sends_telemetry_event": true
 }

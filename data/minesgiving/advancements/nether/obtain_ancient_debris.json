@@ -20,9 +20,7 @@
       "count": 1,
       "id": "minecraft:ancient_debris"
     },
-    "title": {
-      "translate": "advancements.nether.obtain_ancient_debris.title"
-    }
+    "title": "Hidden in the Depths [3 Points]"
   },
   "requirements": [
     [
@@ -30,7 +28,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points2"
+    "function": "scoreboard:gain_points3"
   },
   "sends_telemetry_event": true
 }

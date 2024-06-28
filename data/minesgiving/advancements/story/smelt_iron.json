@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:story/upgrade_tools",
+  "parent": "minesgiving:story/upgrade_tools",
   "criteria": {
     "iron": {
       "conditions": {
@@ -20,9 +20,7 @@
       "count": 1,
       "id": "minecraft:iron_ingot"
     },
-    "title": {
-      "translate": "advancements.story.smelt_iron.title"
-    }
+    "title": "Acquire Hardware [1 Point]"
   },
   "requirements": [
     [

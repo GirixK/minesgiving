@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:end/find_end_city",
+  "parent": "minesgiving:end/find_end_city",
   "criteria": {
     "levitated": {
       "conditions": {
@@ -21,9 +21,7 @@
       "count": 1,
       "id": "minecraft:shulker_shell"
     },
-    "title": {
-      "translate": "advancements.end.levitate.title"
-    }
+    "title": "Great View From Up Here [1 Point]"
   },
   "requirements": [
     [

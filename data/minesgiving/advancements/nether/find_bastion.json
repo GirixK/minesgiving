@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/root",
+  "parent": "minesgiving:nether/root",
   "criteria": {
     "bastion": {
       "conditions": {
@@ -26,9 +26,7 @@
       "count": 1,
       "id": "minecraft:polished_blackstone_bricks"
     },
-    "title": {
-      "translate": "advancements.nether.find_bastion.title"
-    }
+    "title": "Those Were the Days [2 Points]"
   },
   "requirements": [
     [
@@ -36,7 +34,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points1"    
+    "function": "scoreboard:gain_points2"    
   },    
   "sends_telemetry_event": true
 }

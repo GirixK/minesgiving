@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:story/smelt_iron",
+  "parent": "minesgiving:story/smelt_iron",
   "criteria": {
     "iron_pickaxe": {
       "conditions": {
@@ -20,9 +20,7 @@
       "count": 1,
       "id": "minecraft:iron_pickaxe"
     },
-    "title": {
-      "translate": "advancements.story.iron_tools.title"
-    }
+    "title": "Isn't It Iron Pick [1 Point]"
   },
   "requirements": [
     [

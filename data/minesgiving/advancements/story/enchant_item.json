@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:story/mine_diamond",
+  "parent": "minesgiving:story/mine_diamond",
   "criteria": {
     "enchanted_item": {
       "trigger": "minecraft:enchanted_item"
@@ -13,9 +13,7 @@
       "count": 1,
       "id": "minecraft:enchanted_book"
     },
-    "title": {
-      "translate": "advancements.story.enchant_item.title"
-    }
+    "title": "Enchanter [4 Points]"
   },
   "requirements": [
     [
@@ -23,7 +21,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points1"    
+    "function": "scoreboard:gain_points4"    
   },   
   "sends_telemetry_event": true
 }

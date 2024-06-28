@@ -30,9 +30,7 @@
       "count": 1,
       "id": "minecraft:netherite_chestplate"
     },
-    "title": {
-      "translate": "advancements.nether.netherite_armor.title"
-    }
+    "title": "Cover Me in Debris [25 Points]"
   },
   "requirements": [
     [
@@ -41,7 +39,7 @@
   ],
   "rewards": {
     "experience": 100,
-    "function": "scoreboard:gain_points3"
+    "function": "scoreboard:gain_points25"
   },
   "sends_telemetry_event": true
 }

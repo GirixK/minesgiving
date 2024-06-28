@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:story/mine_stone",
+  "parent": "minesgiving:story/mine_stone",
   "criteria": {
     "stone_pickaxe": {
       "conditions": {
@@ -20,9 +20,7 @@
       "count": 1,
       "id": "minecraft:stone_pickaxe"
     },
-    "title": {
-      "translate": "advancements.story.upgrade_tools.title"
-    }
+    "title": "Getting an Upgrade [1 Point]"
   },
   "requirements": [
     [

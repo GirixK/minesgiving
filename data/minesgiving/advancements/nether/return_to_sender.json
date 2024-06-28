@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/root",
+  "parent": "minesgiving:nether/root",
   "criteria": {
     "killed_ghast": {
       "conditions": {
@@ -36,9 +36,7 @@
       "count": 1,
       "id": "minecraft:fire_charge"
     },
-    "title": {
-      "translate": "advancements.nether.return_to_sender.title"
-    }
+    "title": "Return to Sender [3 Points]"
   },
   "requirements": [
     [
@@ -47,7 +45,7 @@
   ],
   "rewards": {
     "experience": 50,
-    "function": "scoreboard:gain_points1"         
+    "function": "scoreboard:gain_points3"         
   },
   "sends_telemetry_event": true
 }

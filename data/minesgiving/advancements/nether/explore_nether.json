@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/ride_strider",
+  "parent": "minesgiving:nether/ride_strider",
   "criteria": {
     "minecraft:basalt_deltas": {
       "conditions": {
@@ -91,9 +91,7 @@
       "count": 1,
       "id": "minecraft:netherite_boots"
     },
-    "title": {
-      "translate": "advancements.nether.explore_nether.title"
-    }
+    "title": "Hot Tourist Destinations [3 Points]"
   },
   "requirements": [
     [
@@ -114,7 +112,7 @@
   ],
   "rewards": {
     "experience": 500,
-    "function": "scoreboard:gain_points1"     
+    "function": "scoreboard:gain_points3"     
   },
   "sends_telemetry_event": true
 }

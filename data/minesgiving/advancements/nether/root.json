@@ -18,9 +18,7 @@
       "id": "minecraft:red_nether_bricks"
     },
     "show_toast": false,
-    "title": {
-      "translate": "advancements.nether.root.title"
-    }
+    "title": "Nether [1 Point]"
   },
   "requirements": [
     [

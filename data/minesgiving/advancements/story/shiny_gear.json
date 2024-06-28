@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:story/mine_diamond",
+  "parent": "minesgiving:story/mine_diamond",
   "criteria": {
     "diamond_boots": {
       "conditions": {
@@ -50,9 +50,7 @@
       "count": 1,
       "id": "minecraft:diamond_chestplate"
     },
-    "title": {
-      "translate": "advancements.story.shiny_gear.title"
-    }
+    "title": "Cover Me with Diamonds [4 Points]"
   },
   "requirements": [
     [
@@ -63,7 +61,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points1"    
+    "function": "scoreboard:gain_points4"    
   },   
   "sends_telemetry_event": true
 }

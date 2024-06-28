@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/return_to_sender",
+  "parent": "minesgiving:nether/return_to_sender",
   "criteria": {
     "killed_ghast": {
       "conditions": {
@@ -28,9 +28,7 @@
       "count": 1,
       "id": "minecraft:ghast_tear"
     },
-    "title": {
-      "translate": "advancements.nether.uneasy_alliance.title"
-    }
+    "title": "Uneasy Alliance [15 Points]"
   },
   "requirements": [
     [
@@ -39,7 +37,7 @@
   ],
   "rewards": {
     "experience": 100,
-    "function": "scoreboard:gain_points1"         
+    "function": "scoreboard:gain_points15"         
   },
   "sends_telemetry_event": true
 }

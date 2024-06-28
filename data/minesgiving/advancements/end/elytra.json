@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:end/find_end_city",
+  "parent": "minesgiving:end/find_end_city",
   "criteria": {
     "elytra": {
       "conditions": {
@@ -21,9 +21,7 @@
       "count": 1,
       "id": "minecraft:elytra"
     },
-    "title": {
-      "translate": "advancements.end.elytra.title"
-    }
+    "title": "Sky's the Limit [2 Points]"
   },
   "requirements": [
     [
@@ -31,7 +29,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points1"    
+    "function": "scoreboard:gain_points2"    
   },  
   "sends_telemetry_event": true
 }

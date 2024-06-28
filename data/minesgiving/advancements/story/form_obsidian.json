@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:story/lava_bucket",
+  "parent": "minesgiving:story/lava_bucket",
   "criteria": {
     "obsidian": {
       "conditions": {
@@ -20,9 +20,7 @@
       "count": 1,
       "id": "minecraft:obsidian"
     },
-    "title": {
-      "translate": "advancements.story.form_obsidian.title"
-    }
+    "title": "Ice Bucket Challenge [2 Points]"
   },
   "requirements": [
     [
@@ -30,7 +28,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points1"    
+    "function": "scoreboard:gain_points2"    
   },   
   "sends_telemetry_event": true
 }

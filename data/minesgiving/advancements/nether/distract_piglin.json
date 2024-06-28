@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/root",
+  "parent": "minesgiving:nether/root",
   "criteria": {
     "distract_piglin": {
       "conditions": {
@@ -166,9 +166,7 @@
       "count": 1,
       "id": "minecraft:gold_ingot"
     },
-    "title": {
-      "translate": "advancements.nether.distract_piglin.title"
-    }
+    "title": "Oh Shiny [1 Point]"
   },
   "requirements": [
     [

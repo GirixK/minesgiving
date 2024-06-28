@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/summon_wither",
+  "parent": "minesgiving:nether/summon_wither",
   "criteria": {
     "beacon": {
       "conditions": {
@@ -18,9 +18,7 @@
       "count": 1,
       "id": "minecraft:beacon"
     },
-    "title": {
-      "translate": "advancements.nether.create_beacon.title"
-    }
+    "title": "Bring Home the Beacon [5 Points]"
   },
   "requirements": [
     [
@@ -28,7 +26,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points1"    
+    "function": "scoreboard:gain_points5"    
   },  
   "sends_telemetry_event": true
 }

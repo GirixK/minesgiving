@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/find_bastion",
+  "parent": "minesgiving:nether/find_bastion",
   "criteria": {
     "loot_bastion_bridge": {
       "conditions": {
@@ -34,9 +34,7 @@
       "count": 1,
       "id": "minecraft:chest"
     },
-    "title": {
-      "translate": "advancements.nether.loot_bastion.title"
-    }
+    "title": "War Pigs [1 Point]"
   },
   "requirements": [
     [

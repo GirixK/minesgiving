@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/get_wither_skull",
+  "parent": "minesgiving:nether/get_wither_skull",
   "criteria": {
     "summoned": {
       "conditions": {
@@ -24,9 +24,7 @@
       "count": 1,
       "id": "minecraft:nether_star"
     },
-    "title": {
-      "translate": "advancements.nether.summon_wither.title"
-    }
+    "title": "Withering Heights [10 Points"
   },
   "requirements": [
     [
@@ -34,7 +32,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points1"    
+    "function": "scoreboard:gain_points10"    
   },    
   "sends_telemetry_event": true
 }

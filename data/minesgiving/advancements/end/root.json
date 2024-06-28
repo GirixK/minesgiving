@@ -18,9 +18,7 @@
       "id": "minecraft:end_stone"
     },
     "show_toast": false,
-    "title": {
-      "translate": "advancements.end.root.title"
-    }
+    "title": "The End [2 Points]"
   },
   "requirements": [
     [
@@ -28,7 +26,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points1"    
+    "function": "scoreboard:gain_points2"    
   },  
   "sends_telemetry_event": true
 }

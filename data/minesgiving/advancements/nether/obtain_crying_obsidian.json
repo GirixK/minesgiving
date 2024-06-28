@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/root",
+  "parent": "minesgiving:nether/root",
   "criteria": {
     "crying_obsidian": {
       "conditions": {
@@ -20,9 +20,7 @@
       "count": 1,
       "id": "minecraft:crying_obsidian"
     },
-    "title": {
-      "translate": "advancements.nether.obtain_crying_obsidian.title"
-    }
+    "title": "Who is Cutting Onions? [2 Points]"
   },
   "requirements": [
     [
@@ -30,7 +28,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points1"    
+    "function": "scoreboard:gain_points2"    
   },    
   "sends_telemetry_event": true
 }

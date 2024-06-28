@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/ride_strider",
+  "parent": "minesgiving:nether/ride_strider",
   "criteria": {
     "ride_entity_distance": {
       "conditions": {
@@ -34,9 +34,7 @@
       "count": 1,
       "id": "minecraft:warped_fungus_on_a_stick"
     },
-    "title": {
-      "translate": "advancements.nether.ride_strider_in_overworld_lava.title"
-    }
+    "title": "Feels Like Home [10 Points]"
   },
   "requirements": [
     [
@@ -44,7 +42,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points1"    
+    "function": "scoreboard:gain_points10"    
   },    
   "sends_telemetry_event": true
 }

@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:end/kill_dragon",
+  "parent": "minesgiving:end/kill_dragon",
   "criteria": {
     "summoned_dragon": {
       "conditions": {
@@ -25,14 +25,15 @@
       "count": 1,
       "id": "minecraft:end_crystal"
     },
-    "title": {
-      "translate": "advancements.end.respawn_dragon.title"
-    }
+    "title": "The End... Again... [4 Points]"
   },
   "requirements": [
     [
       "summoned_dragon"
     ]
   ],
+  "rewards": {
+    "function": "scoreboard:gain_points4"    
+  },  
   "sends_telemetry_event": true
 }

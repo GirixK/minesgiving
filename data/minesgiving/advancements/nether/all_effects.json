@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/all_potions",
+  "parent": "minesgiving:nether/all_potions",
   "criteria": {
     "all_effects": {
       "conditions": {
@@ -46,9 +46,7 @@
       "count": 1,
       "id": "minecraft:bucket"
     },
-    "title": {
-      "translate": "advancements.nether.all_effects.title"
-    }
+    "title": "How Did We Get Here? [50 Points]"
   },
   "requirements": [
     [
@@ -57,7 +55,7 @@
   ],
   "rewards": {
     "experience": 1000,
-    "function": "scoreboard:gain_points1"      
+    "function": "scoreboard:gain_points50"      
   },
   "sends_telemetry_event": true
 }
