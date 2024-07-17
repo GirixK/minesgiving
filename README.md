@@ -6,14 +6,14 @@
 
 <details open="open">
 <summary>Table of Contents</summary>
-- [About](https://github.com/GirixK/minesgiving?tab=readme-ov-file#about)
-  - [But Why?](https://github.com/GirixK/minesgiving?tab=readme-ov-file#but-why?)
-  - [Getting Started](https://github.com/GirixK/minesgiving?tab=readme-ov-file#getting-started)
-    - [Usage & Download](https://github.com/GirixK/minesgiving?tab=readme-ov-file#usage-&-download)
-    - [Installation](https://github.com/GirixK/minesgiving?tab=readme-ov-file#installation)
-- [Acknowledgements](https://github.com/GirixK/minesgiving?tab=readme-ov-file#acknowledgements)
-- [To-Do Items](https://github.com/GirixK/minesgiving?tab=readme-ov-file#to-do-items)
-- [Disclaimer](https://github.com/GirixK/minesgiving?tab=readme-ov-file#disclaimer)
+- [About](https://github.com/GirixK/minesgiving#about)
+  - [But Why?](https://github.com/GirixK/minesgiving#but-why?)
+  - [Getting Started](https://github.com/GirixK/minesgiving#getting-started)
+    - [Usage & Download](https://github.com/GirixK/minesgiving#usage-&-download)
+    - [Installation](https://github.com/GirixK/minesgiving#installation)
+- [Acknowledgements](https://github.com/GirixK/minesgiving#acknowledgements)
+- [To-Do Items](https://github.com/GirixK/minesgiving#to-do-items)
+- [Disclaimer](https://github.com/GirixK/minesgiving#disclaimer)
 
 </details>
 
