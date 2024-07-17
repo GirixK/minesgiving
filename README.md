@@ -6,24 +6,20 @@
 
 <details open="open">
 <summary>Table of Contents</summary>
-- [About](#About)
-  - [But Why?](#why?)
-  - [Getting Started](#getting-started)
-    - [Usage & Download](#usage-&-download)
-    - [Installation](#installation)
-- [Acknowledgements](#acknowledgements)
-- [To-Do Items](#to-do-items)
-- [Disclaimer](#disclaimer)
+- [About](https://github.com/GirixK/minesgiving?tab=readme-ov-file#about)
+  - [But Why?](https://github.com/GirixK/minesgiving?tab=readme-ov-file#but-why?)
+  - [Getting Started](https://github.com/GirixK/minesgiving?tab=readme-ov-file#getting-started)
+    - [Usage & Download](https://github.com/GirixK/minesgiving?tab=readme-ov-file#usage-&-download)
+    - [Installation](https://github.com/GirixK/minesgiving?tab=readme-ov-file#installation)
+- [Acknowledgements](https://github.com/GirixK/minesgiving?tab=readme-ov-file#acknowledgements)
+- [To-Do Items](https://github.com/GirixK/minesgiving?tab=readme-ov-file#to-do-items)
+- [Disclaimer](https://github.com/GirixK/minesgiving?tab=readme-ov-file#disclaimer)
 
 </details>
 
 ---
 
 ## About
-
-<table>
-<tr>
-<td>
 
 This Survival Games datapack raises the stakes of a traditional survival-based speedrunning competition by creating additional avenues for players to win. While the ultimate goal is still speedily reaching the End Dimension to [Free the End](https://minecraft.wiki/w/Tutorials/Advancement_guide/The_End_tab#Free_the_End), this datapack modifies the overall competition by assigning points for each vanilla advancement. This change makes slower players still have a competitive chance against speedier runners. 
 
@@ -44,9 +40,6 @@ Going in to our 6th edition of Minesgiving, we wanted to address a consistent pr
 With the introduction of Java Edition 1.21, we took the opportunity to experiment with the new advancements, and restructure Survival Games & the speedrunning process by utilizing the in-game advancement system with embedded points, while still maintaining the ultimate goal of [Freeing the End](https://minecraft.wiki/w/Tutorials/Advancement_guide/The_End_tab#Free_the_End). 
 </details>
 
-</td>
-</tr>
-</table>
 
 ## Getting Started
 
@@ -57,7 +50,7 @@ It was written and tested within Windows 11.
 Warning: This program may contains errors. Use it with your own risk.
 
 Download link: https://github.com/GirixK/minesgiving 
- - [ ]TODO: correct link to include releases/latest ?
+ - [ ] TODO: correct link to include releases/latest ?
 
 ### Installation
 This plugin was written with respect and intended usage for multiplayer "vanilla" servers, and specifically modifies 1.21 Java Edition advancements. It is possible to use the plugin in single-player if desired. 
