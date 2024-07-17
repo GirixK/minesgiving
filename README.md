@@ -20,9 +20,9 @@ Minesgiving has hosted a Survival Games component since the very first Minesgivi
 This is a very predictable and objectionable event metric, as the specific advancement is only achieveable by *one person per Ender Dragon*. 
 
 Going in to our 6th edition of Minesgiving, we wanted to address a consistent problem across each version of the game we've run the event:
--- 1.16 revamped the Nether biomes and increased the difficulty of Nether traversal, [impacting the process of locating a Nether Fortress/getting Blaze], but the speedrunning path remained the same.
--- 1.17/1.18/1.19 signficantly altered Overworld terrain generation, but didn't really change the speedrunning path, outside making the strongholds deeper and introducing The Deep Dark.
--- 1.20's only major impact on the speedrunning path was locking netherite completely behind Nether Bastions (not that netherite armor/tools are necessary to defeat the Ender Dragon)
+- 1.16 revamped the Nether biomes and increased the difficulty of Nether traversal, [impacting the process of locating a Nether Fortress/getting Blaze], but the speedrunning path remained the same.
+- 1.17/1.18/1.19 signficantly altered Overworld terrain generation, but didn't really change the speedrunning path, outside making the strongholds deeper and introducing The Deep Dark.
+- 1.20's only major impact on the speedrunning path was locking netherite completely behind Nether Bastions (not that netherite armor/tools are necessary to defeat the Ender Dragon)
 
 With the introduction of Java Edition 1.21, we took the opportunity to experiment with the new advancements, and restructure Survival Games & the speedrunning process by utilizing the in-game advancement system with embedded points, while still maintaining the ultimate goal of [Freeing the End](https://minecraft.wiki/w/Tutorials/Advancement_guide/The_End_tab#Free_the_End). 
 </details>
