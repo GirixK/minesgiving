@@ -199,7 +199,7 @@
   ],
   "rewards": {
     "experience": 50,
-    "function": "scoreboard:gain_points1"       
+    "function": "scoreboard:gain_points20"       
   },
   "sends_telemetry_event": true
 }

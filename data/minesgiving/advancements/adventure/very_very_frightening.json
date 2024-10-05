@@ -36,7 +36,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points1"    
+    "function": "scoreboard:gain_points15"    
   },  
   "sends_telemetry_event": true
 }

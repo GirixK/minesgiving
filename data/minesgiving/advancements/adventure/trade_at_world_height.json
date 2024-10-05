@@ -40,7 +40,7 @@
     ]
   ],
   "rewards": {
-    "function": "scoreboard:gain_points1"    
+    "function": "scoreboard:gain_points10"    
   },  
   "sends_telemetry_event": true
 }
